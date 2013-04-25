@@ -77,10 +77,11 @@ Compiles `src` and returns a JavaScript expression as a string.  This can be use
 function client(name) {
   return 'function name(req){return ' + ert.compile(src) + '}';
 }
+```
 
 ### ert.compileFn(src)
 
-Compiles `src`and returns a function which expects a single argument, `request`.
+Compiles `src` and returns a function which expects a single argument, `request`.
 
 ## License
 

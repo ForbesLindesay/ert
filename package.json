@@ -1,0 +1,16 @@
+{
+  "name": "ert",
+  "version": "1.0.0",
+  "description": "Express routing templates provides a simple micro-templating syntax for building strings from a template and a `request` object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": { "type": "git", "url": "https://github.com/ForbesLindesay/ert.git" },
+  "keywords": [ "express", "routing", "template", "redirect", "expression" ],
+  "author": "ForbesLindesay",
+  "license": "MIT",
+  "dependencies": {
+    "character-parser": "~1.0.0"
+  }
+}

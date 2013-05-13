@@ -46,6 +46,7 @@ function compile(str) {
           /[a-zA-Z]/.test(section.src[x + 1]) && x + 1 < section.src.length) {
           exp += '(' + exports.shortcutMap[section.src[x]] + ' && ' + exports.shortcutMap[section.src[x]] + '["';
           while(/[\w\-]/.test(section.src[++x]) && x < section.src.length) exp += section.src[x];
+          x--;
           exp += '"] || "")';
         } else {
           exp += section.src[x];

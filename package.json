@@ -6,8 +6,17 @@
   "scripts": {
     "test": "node test"
   },
-  "repository": { "type": "git", "url": "https://github.com/ForbesLindesay/ert.git" },
-  "keywords": [ "express", "routing", "template", "redirect", "expression" ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/ert.git"
+  },
+  "keywords": [
+    "express",
+    "routing",
+    "template",
+    "redirect",
+    "expression"
+  ],
   "author": "ForbesLindesay",
   "license": "MIT",
   "dependencies": {

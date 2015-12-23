@@ -3,7 +3,7 @@
 Express routing templates provides a simple micro-templating syntax for building strings from a template and a `request` object.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/ert/master.svg)](https://travis-ci.org/ForbesLindesay/ert)
-[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/ert.svg)](https://gemnasium.com/ForbesLindesay/ert)
+[![Dependency Status](https://img.shields.io/david/ForbesLindesay/ert.svg)](https://david-dm.org/ForbesLindesay/ert)
 
 ## Installation
 

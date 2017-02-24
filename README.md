@@ -1,5 +1,7 @@
 # ert
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/ert.svg)](https://greenkeeper.io/)
+
 Express routing templates provides a simple micro-templating syntax for building strings from a template and a `request` object.
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/ert/master.svg)](https://travis-ci.org/ForbesLindesay/ert)

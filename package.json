@@ -20,6 +20,6 @@
   "author": "ForbesLindesay",
   "license": "MIT",
   "dependencies": {
-    "character-parser": "~1.0.0"
+    "character-parser": "~2.2.0"
   }
 }
